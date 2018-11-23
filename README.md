@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+https://docs.microsoft.com/en-us/azure/devops/index?view=vsts
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
